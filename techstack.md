@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 donaldww/Go-Programming-Cookbook-Second-Edition is built on the following main stack:
+
 - [Golang](http://golang.org/) – Languages
 - [MySQL](http://www.mysql.com) – Databases
 - [MongoDB](http://www.mongodb.com/) – Databases
@@ -18,11 +19,13 @@ donaldww/Go-Programming-Cookbook-Second-Edition is built on the following main s
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 donaldww/Go-Programming-Cookbook-Second-Edition is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
@@ -39,14 +42,15 @@ donaldww/Go-Programming-Cookbook-Second-Edition is built on the following main s
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [donaldww/Go-Programming-Cookbook-Second-Edition](https://github.com/donaldww/Go-Programming-Cookbook-Second-Edition)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/09/23 <br/>Report generated|
+|15<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -203,4 +207,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
